@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manjunathk833
+- 👋 Hi, I’m Manjunath H K
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on front end projects involving react js or MERN Stack
