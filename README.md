@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manjunath H K
-- 👀 I’m interested in Full Stack Development, SDET
-- 🌱 I’m currently learning React JS, Test Automation Frameworks
-- 💞️ I’m looking to collaborate on front end projects involving react js or MERN Stack, Automation Projects
+- 👀 I’m interested in Full Stack Development,Full stack automation testing(UI,API, Backend)
+- 🌱 I’m currently learning React JS, Selenium, Appium, Rest Assured
+- 💞️ I’m looking to collaborate on Full stack Automation framework projects, react js/next js web apps
 - 📫 How to reach me manjunathhk833@gmail.com
 
 <!---
